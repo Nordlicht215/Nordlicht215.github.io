@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Chewy&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pangolin&display=swap');
+.back{
+    background-color: rgb(171, 190, 226);
+}
+#fb{
+    color: darkslateblue;
+    font-family: Amatic SC;
+    font-weight: 900;
+    font-size: 35px;
+}
+#yt{
+    color:brown;
+    font-family: Amatic SC;
+    font-weight: 900;
+    font-size: 35px;
+}
+#di{
+    color:cornflowerblue;
+    font-family: Amatic SC;
+    font-weight: 900;
+    font-size: 35px;
+}
+.nave{
+    background-color: rgb(217, 209, 236);
+    font-family: Chewy;
+    font-size: 30px;
+    margin-left: 5px;
+}
+.vid{
+    height: 480px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.bie{
+    padding:10px;
+    color:darkslategrey;
+    font-size: 28px;
+    font-family: 'Patrick Hand';
+    text-align: center;
+    background-color: rgb(224, 236, 248);
+    margin-bottom: 10px;
+}
+.enc{
+    font-family: 'Patrick Hand';
+    color:rgb(92, 48, 109);
+    font-weight: 900;
+    font-size:24px;
+    text-align: center;
+    background-color: floralwhite;
+}
+.te{
+    color:rgb(24, 24, 56);
+    text-align: justify;
+    font-family: Pangolin;
+}
+.ca{
+    color:rgb(104, 98, 7);
+    font-family: Ink Free;
+    font-weight: 800;
+    background-color: bisque;
+}
+.ca2{
+    color:rgb(104, 34, 7);
+    font-family: Ink Free;
+    font-weight: 800;
+    background-color: rgb(233, 220, 203);
+}
+.ca3{
+    color:rgb(7, 84, 104);
+    font-family: Ink Free;
+    font-weight: 800;
+    background-color: lavender;
+}
+.ca4{
+    color:crimson;
+    font-family: Ink Free;
+    font-weight: 800;
+    background-color: lightpink;
+}
+.not{
+    text-align: center;
+    font-family: 'Patrick Hand';
+    font-size: 28px;
+    font-weight: 900;
+    color:rebeccapurple;
+}
+#nota{
+    width:100%;
+    height: 319px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#ic{
+    width: 100%;
+    height: 100%;
+    padding:10px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.caja{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.but{
+    font-family: Chewy;
+    background-color:rgb(217, 193, 228);
+    border-color: rgb(217, 193, 228);
+    color:darkslateblue;
+    text-align: center;
+}
+.log{
+    border-radius: 50%  !important;
+    box-shadow: 0px 0px 150px rgb(95, 99, 158);
+    border: solid rgb(137, 141, 182);
+    border-width: 3px;
+}
+.cont{
+    font-family: Pangolin;
+    margin-top: 5px;
+    font-size: 18px;
+    text-align: justify;
+}
+.cb{
+    justify-content: center; 
+    align-items: center; 
+    text-align: center;
+}
+.quot{
+    font-family: 'Patrick Hand';
+    font-size: 24px;
+    text-align:justify;
+}
+.lib{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.titu{
+    font-family: Amatic SC;
+    font-size: 35px;
+    font-weight: 800;
+}
+.pie{
+    background-color:lightcyan;
+    font-family: Ink Free;
+    font-size: 18px;
+    font-weight: 800;
+    color:darkslateblue;
+    margin-left:10px;
+    margin-top: 10px;
+}
+.con{
+    font-family: Pangolin;
+    margin-top: 5px;
+    font-size: 18px;
+}
